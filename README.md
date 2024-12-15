@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am **Vishal**, currently in my final year of MS in Operations Research at Georgia Tech. I am interested in Queueing Theory, Stochastic Optimization and Reinforcement Learning research.
+
+My research:
+
+- Spatial Matching of Dynamic two sided queues: https://drive.google.com/file/d/1cC8m16tKW4DUEIjKR9_qeQXSLuqs1uwa/view?usp=sharing
+- Solvation-free energy of uncharged and charged water-soluble synthetic polymer using adaptive Poisson-Boltzmann solver: https://www.tandfonline.com/doi/full/10.1080/08927022.2024.2439623
+
+<!--
 <hr></hr>
 
 ## 📈 Github Stats
@@ -24,5 +32,6 @@ Here are some ideas to get you started:
 <!-- <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=abisubramanya27&repo=github-readme-stats&theme=radical" alt="Abishek Sridhar's Github stats - recent repos" width="40%" />
 </div> -->
-
-<hr></hr>
+<!--
+<hr></hr> 
+-->
