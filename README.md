@@ -21,7 +21,7 @@ My research:
 - Spatial Matching of Dynamic two sided queues: https://drive.google.com/file/d/1cC8m16tKW4DUEIjKR9_qeQXSLuqs1uwa/view?usp=sharing
 - Solvation-free energy of uncharged and charged water-soluble synthetic polymer using adaptive Poisson-Boltzmann solver: https://www.tandfonline.com/doi/full/10.1080/08927022.2024.2439623
 
-[Personal website](https://mew-two-github.github.io) under construction
+[Personal website](https://mew-two-github.github.io): https://mew-two-github.github.io/
 
 <!--
 <hr></hr>
