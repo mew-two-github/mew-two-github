@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am **Vishal**, currently in my final year of MS in Operations Research at Georgia Tech. I am interested in Queueing Theory, Stochastic Optimization and Reinforcement Learning research.
+I am **Vishal**, currently in my final year of MS in Operations Research at Georgia Tech. I am interested in Queueing Theory, Stochastic Optimization and Reinforcement Learning.
 
 [Personal website](https://mew-two-github.github.io): https://mew-two-github.github.io/
 
